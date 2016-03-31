@@ -6,7 +6,7 @@ Only tested with **Siberia Raw Prism**.
 
 Example:
 
-![headset](http://i.imgur.com/GtXsDu4.gif)
+![headset](/img/img.gif)
 
 ## Requirements
 * libalsa-dev, user-space sound lib
